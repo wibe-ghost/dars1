@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.right {
+    display: flex;
+    gap: 14px;
+}
+
+.text {
+font-family: 'Inter';
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+color: #424242;
+}
+
+.header-content {
+    display: flex;
+    height: 140px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gray-line {
+    border: 2px solid #DEDBDB 
+}
+
+.top-icon {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.top-icon {
+font-family: 'Inter';
+font-weight: 700;
+font-size: 24px;
+color: #F0400F;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 66px;
+}
+
+.title {
+font-family: 'Inter';
+font-weight: 700;
+font-size: 48px;
+color: #0E0D5D;
+text-align: center;
+margin-top: 131px;
+}
+
+.login-container {
+width: 650px;
+border: 1px solid #434343;
+height: 830px;
+border-radius: 50px;
+margin: 0 auto;
+margin-top: 46px;
+margin-bottom: 50px;
+}
+
+.btn button {
+font-family: 'Inter';
+font-weight: 500;
+font-size: 28px;
+color: #757575;
+padding-left: 300px;
+border: none;
+
+width: 533px;
+height: 70px;
+border-radius: 20px;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 79px;
+}
+
+.button-1 button {
+font-family: 'Inter';
+font-weight: 500;
+font-size: 28px;
+color: #000000;
+
+width: 255px;
+height: 54px;
+border-radius: 15px;
+background: #FFFFFF;
+border: none;
+}
+
+.button-1 {
+    position: absolute;
+    margin-top: -63px;
+    left: 70px;
+}
+
+.btn-ota  {
+    position: relative;
+}
+
+.inp-1 input {
+font-family: 'Inter';
+font-weight: 500;
+font-size: 24px;
+color: rgba(117, 117, 117, 0.7);
+background: #F5F5F5;
+width: 533px;
+height: 70px;
+border-radius: 20px;
+border: 1px 0px 0px 0px;
+border: none;
+border: 1px solid #75757530;
+padding-left: 50px;
+
+}
+
+.inp-1 {
+    text-align: center;
+    margin-top: 39px;
+}
+
+.inp-2 input {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 24px;
+    color: rgba(117, 117, 117, 0.7);
+    background: #F5F5F5;
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px 0px 0px 0px;
+    border: none;
+    border: 1px solid #75757530;
+    padding-left: 50px;
+
+}
+
+.inp-2 {
+    text-align: center;
+    margin-top: 39px;
+    position: relative;
+}
+
+.inp-2 img {
+    position: absolute;
+    top: 20px;
+    margin-left: -50px;
+}
+
+.foot-text {
+font-family: 'Inter';
+font-weight: 500;
+text-align: center;
+margin-top: 18px;
+font-size: 24px;
+color: rgba(0, 0, 0, 0.64);
+}
+
+.last-btn button {
+font-family: 'Inter';
+font-weight: 700;
+font-size: 24px;
+color: #FFFFFF;
+
+width: 202px;
+border: none;
+height: 67px;
+background: #F69E86;
+border-radius: 20px;
+margin-left: 390px;
+margin-top: 30px;
+}
+
+.last-btn {
+
+}
